@@ -1,0 +1,2 @@
+D:\C언어\KOREAIT\workspace\Day01\Debug\Day01.exe
+D:\C언어\KOREAIT\workspace\Day01\Debug\Day01.pdb

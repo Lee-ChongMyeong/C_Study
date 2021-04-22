@@ -1,0 +1,6 @@
+﻿  Day12.c
+D:\C언어\KGITBANK\workspace\Day12\Day12.c(236,21): warning C4047: '함수': 'int'의 간접 참조 수준이 'int (__cdecl *)(int,int,int)'과(와) 다릅니다.
+D:\C언어\KGITBANK\workspace\Day12\Day12.c(236,16): warning C4024: 'ave': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+D:\C언어\KGITBANK\workspace\Day12\Day12.c(239,19): error C2440: '함수': 'double (__cdecl *)(int)'에서 'double'(으)로 변환할 수 없습니다.
+D:\C언어\KGITBANK\workspace\Day12\Day12.c(239,16): warning C4024: 'Grade': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+D:\C언어\KGITBANK\workspace\Day12\Day12.c(231,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

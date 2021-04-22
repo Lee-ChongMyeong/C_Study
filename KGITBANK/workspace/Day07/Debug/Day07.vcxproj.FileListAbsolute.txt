@@ -1,0 +1,2 @@
+D:\C언어\KGITBANK\workspace\Day07\Debug\Day07.exe
+D:\C언어\KGITBANK\workspace\Day07\Debug\Day07.pdb

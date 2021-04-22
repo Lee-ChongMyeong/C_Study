@@ -1,0 +1,2 @@
+D:\C언어\KGITBANK\workspace\Day12\Debug\Day12.exe
+D:\C언어\KGITBANK\workspace\Day12\Debug\Day12.pdb

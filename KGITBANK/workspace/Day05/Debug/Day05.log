@@ -1,0 +1,5 @@
+﻿  Day05.c
+D:\C언어\KGITBANK\workspace\Day05\Day05.c(247,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C언어\KGITBANK\workspace\Day05\Day05.c(250,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C언어\KGITBANK\workspace\Day05\Day05.c(253,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Day05.vcxproj -> D:\C언어\KGITBANK\workspace\Day05\Debug\Day05.exe
